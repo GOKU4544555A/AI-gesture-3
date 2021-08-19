@@ -1,0 +1,15 @@
+.btn-primary{
+font-size: 15px;
+width: 100%;
+margin: 0px;
+box-shadow: 5px 5px 20px red;
+}
+.copyrightfooter{
+line-height: 3;
+width: 100%;
+position: fixed;
+bottom: 0;
+background-color: black;
+color: red;
+text-align: center;
+}
